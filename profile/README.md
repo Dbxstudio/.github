@@ -17,4 +17,4 @@ We believe strong developer tools are built in the open — through transparency
 ## Links
 - Website: https://www.dbxstudio.com
 - GitHub: https://github.com/dbxstudio
-- Discord: https://discord.gg/DVvf5cWY
+- Discord: https://discord.gg/kuhuKcJJbk
